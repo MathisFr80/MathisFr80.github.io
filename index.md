@@ -12,7 +12,7 @@ hero_image_ratio: is-1by1
 Elève ingénieur en première année.
 
 
-Pas disponible XX mois à partir de Date
+Pas disponible 12 mois à partir de Date
 
 [Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
 
