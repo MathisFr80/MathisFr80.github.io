@@ -10,15 +10,15 @@ download_cv: assets/docs/Template_CV.pdf
 
 `2024 – 2029`
 **UniLaSalle Amiens**
-
 Ingénieur Energies et Numérique 1er année
 
 `2021 – 2024`
 **Sacré Cœur Amiens** 
+Etudiant
 
 ## Expériences
 
-`2023` **EARL DEVILLERS - Culture **
+`2023` **EARL DEVILLERS - Culture**
 
 * Conduite d’engins agricole sous supervisions.
 Réalisation d’opération manuelles comme le désherbage, la plantation ou le tri des produits récoltés.
@@ -27,7 +27,7 @@ Contribution active à une récolte réussie malgré des contraintes climatiques
 
 
 
-`2020` **Corbie Informatique - Dépannage/Réparation **
+`2020` **Corbie Informatique - Dépannage/Réparation**
 
 * Réparation et entretien de matériel informatique pour les particuliers et les professionnels.
 * Diagnostic des pannes matérielles et logicielles.
@@ -42,18 +42,21 @@ Installation et mise à jour de logiciels, optimisation des performances.
 
 ## Compétences
 
-**Anglais**
-*TOEIC : 730
+**Anglais:**
 
-Informatique
+TOEIC : 730
+
+**Informatique**
 * Modélisation/Impression 3D
 * Pack office
 * Programmation
 
 ## Centres d’intérêt
 
-**Association**
-*ATT Franvillers
+**Association:**
 
-**Sport** 
-*Badminton, Ping-pong
+ATT Franvillers
+
+**Sport:** 
+
+Badminton, Ping-pong
