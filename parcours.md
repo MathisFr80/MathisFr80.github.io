@@ -1,67 +1,59 @@
 ---
 layout: page
 title: Mon parcours
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
+description: "CV étudiant"
 menubar: menu_bar
 download_cv: assets/docs/Template_CV.pdf
 ---
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029`
+**UniLaSalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Ingénieur Energies et Numérique 1er année
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2021 – 2024`
+**Sacré Cœur Amiens** 
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2023` **EARL DEVILLERS - Culture **
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+* Conduite d’engins agricole sous supervisions.
+Réalisation d’opération manuelles comme le désherbage, la plantation ou le tri des produits récoltés.
+* Respect des délais pour les différentes étapes de la production.
+Contribution active à une récolte réussie malgré des contraintes climatiques.
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+`2020` **Corbie Informatique - Dépannage/Réparation **
 
-`20XX` **Association, description de l’asso., taille**
+* Réparation et entretien de matériel informatique pour les particuliers et les professionnels.
+* Diagnostic des pannes matérielles et logicielles.
+Installation et mise à jour de logiciels, optimisation des performances.
 
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+
+`2022` **Boulangerie François - Boulanger**
+
+* Préparation de produits de boulangerie.
+* Respect des normes d’hygiène alimentaire.
+* Production quotidienne respectant les standards de l’entreprise et les attentes du client.
 
 ## Compétences
 
-Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+**Anglais**
+*TOEIC : 730
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
-
-Autres
-* Autres diplômes ou permis spéciaux
+* Modélisation/Impression 3D
+* Pack office
+* Programmation
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+**Association**
+*ATT Franvillers
 
-Loisirs 1
-* Description 
-* Description 
+**Sport** 
+*Badminton, Ping-pong
