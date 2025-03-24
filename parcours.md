@@ -46,7 +46,7 @@ Installation et mise à jour de logiciels, optimisation des performances.
 
 TOEIC : 730
 
-**Informatique**
+**Informatique:**
 * Modélisation/Impression 3D
 * Pack office
 * Programmation
