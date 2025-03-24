@@ -1,7 +1,7 @@
 ---
 layout: promo-page
 title: Qui suis-je?
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
+description: "CV étudiant"
 menubar: menu_bar
 hero_image: assets/imgs/image.png
 hero_image_alt: Ma photo
@@ -9,14 +9,15 @@ hero_image_ratio: is-1by1
 ---
 
 # Mathis FRANCOIS
-Elève ingénieur en première année.
+2024 – 2029  Ingénieur Energies et Numérique 1er année  UniLaSalle Amiens
+2021 – 2024  Etudiant  Sacré Cœur Amiens
+
+Actuellement en recherche actif de boulout étudiant.
+Disponible tout les week-end et petites vacances.
+
+[Adresse mail](mathis.francois80@outlook.fr)
+[LinkedIn](linkedin.com/in/mathis-françois)
 
 
-Pas disponible 12 mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
-
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
-
-Permis B, voiture bientot on espere
 
